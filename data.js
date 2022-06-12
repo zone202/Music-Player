@@ -9,7 +9,7 @@ let songs = [
         name : 'Hurt',
         path: 'music/Johnny Cash - Hurt.mp3',
         artist : 'Johnny Cash',
-        cover: 'Images/Johnny Cash.jpg'
+        cover: 'Images/Cash.jpg'
     },
     {
         name : 'Photograph',
